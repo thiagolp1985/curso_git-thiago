@@ -1,0 +1,2 @@
+bool virar(int graus);
+
